@@ -2,3 +2,6 @@
 2.jpg - screen pokazuje wyslanie zaproszenia o dolaczenie do projektu pozostalym osob z zespolu
 3.jpg - screen pokazuje utworzenie automatyzacji ktora zamknie nam epic gdy wszystkie story zostana ukonczone
 4.jpg - screen pokazuje widok przykladowej story, jest widoczny szczegolowy opis, zalacznik do makiety z widokiem ekranu, rozpisane podzadania na roznych etapach realizacji oraz czas startu i termin realizacji historyjki
+5.jpg - zakladka wydania, gdzie widac planowanie wydania, z ich datami, oraz opisem i zakresem wydań
+6.jpg - screen z zakladki backlog, widac na nim zadania ktore wzielismy do sprintu, widac ze wzielismy zadania za lacznie 13 story pointy, widac rowniez backlog z reszta zadan
+7.jpg - screen z zakladki timeline, widac na nim ktore zadania historyjki zostaly przyjete do spintu wraz z ich statusami
