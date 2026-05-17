@@ -1,0 +1,4 @@
+1.jpg - skonfigurowana pusta tablica z kolumnami to do, in progress, in review, done.
+2.jpg - screen pokazuje wyslanie zaproszenia o dolaczenie do projektu pozostalym osob z zespolu
+3.jpg - screen pokazuje utworzenie automatyzacji ktora zamknie nam epic gdy wszystkie story zostana ukonczone
+4.jpg - screen pokazuje widok przykladowej story, jest widoczny szczegolowy opis, zalacznik do makiety z widokiem ekranu, rozpisane podzadania na roznych etapach realizacji oraz czas startu i termin realizacji historyjki
