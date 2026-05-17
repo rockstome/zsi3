@@ -5,3 +5,13 @@
 5.jpg - zakladka wydania, gdzie widac planowanie wydania, z ich datami, oraz opisem i zakresem wydań
 6.jpg - screen z zakladki backlog, widac na nim zadania ktore wzielismy do sprintu, widac ze wzielismy zadania za lacznie 13 story pointy, widac rowniez backlog z reszta zadan
 7.jpg - screen z zakladki timeline, widac na nim ktore zadania historyjki zostaly przyjete do spintu wraz z ich statusami
+8.jpg - scren przedstawia spotkanie standup, widac na nim ze wypowiedzieli sie juz Wiktor i Tomasz, oraz aktualnie zabral glos ANdrzej i widzimy tylko jego zadania nad ktorym aktualnie pracuje
+9.jpg - screen przedstawia audit log z naszej autmatyzacji, widac na nim ze po zmianie statusu ostatniego subtaska na gotowe, story automatycznie zostalo przeniesione do statusu gotowe
+10.jpg - screen pokazuje maila jakiego dostalem z jiry. jest to informacja ze automatycznie zostala zamknieta historyjka w ktorej zostaly wykonane wszystkie zadania podrzedne
+11.jpg - screen przedstawia ukonczenie naszego pierwszego sprintu czyli sprint 0.
+
+
+
+TODO: 
+screen z kalendarza na sam koniec oraz z wydaniami
+opisac czemu sa pionewe kreski w burnup raporcie w sprint 0
