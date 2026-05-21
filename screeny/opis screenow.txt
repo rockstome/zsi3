@@ -9,9 +9,8 @@
 9.jpg - screen przedstawia audit log z naszej autmatyzacji, widac na nim ze po zmianie statusu ostatniego subtaska na gotowe, story automatycznie zostalo przeniesione do statusu gotowe
 10.jpg - screen pokazuje maila jakiego dostalem z jiry. jest to informacja ze automatycznie zostala zamknieta historyjka w ktorej zostaly wykonane wszystkie zadania podrzedne
 11.jpg - screen przedstawia ukonczenie naszego pierwszego sprintu czyli sprint 0.
-
-
-
-TODO: 
-screen z kalendarza na sam koniec oraz z wydaniami
-opisac czemu sa pionewe kreski w burnup raporcie w sprint 0
+12.jpg - screen przedstawia os czasu na ktorej widac miedzy innymi zadanie SCRUM-19, ktore bylo zaplanowane na Sprint 1 ale nie udalo sie go ukonczyc w tym sprincie i przeszlo do Sprint 2. 
+13.jpg - screen przedstawia widok z zakladki kalendarz, widac na nim miedzy innymi odbyte sprinty, wykonane releasy, oraz historyjki i epici jakie zostaly ukonczone kazdego dnia
+14.jpg - scrren przedstawia raport burnup, widac na nim jak pracowalismy w sprincie 0, czerwona linia przedstawia zakres prac z momentem dodawania ich do sprintu, pionowa kreska wynika z omylkowego dodania zadania do sprintu, mlody niedoswiadczony deweloper dobral za duzo zadan i przekorczyl capacity teamu czyli 13 SP, dopiero scrum master usunal zadanie. zielona linia przedtawia ukonczone zadania. os pionowa to story pointy.
+15.jpg - screen przedstawia raport wykres spalania sprintu podczas sprintu numer 2.
+16.jpg - screen przedstawia raport o szybkosci pracy, widac na nim ile SP zobowiazywalismy sie dostarczyc oraz ile sie udalo dostarczyc, na tym ogolnym widoku bardzo prosto widac ze w spincie 1 nie udalo sie zrealizowac tyle SP ile deklarowalismy. Mamy tez informacje o sredniej liczbe dostarczonym SP w sprintach.
