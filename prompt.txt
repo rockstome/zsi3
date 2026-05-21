@@ -1,0 +1,9 @@
+W projekcie studenckim mielismy za zadanie zrobic symulacje malego projektu z wytwarzania oprgramowania w jira w kilku sprintach.
+Mamy pokazac rozne ciekawe funkcjonalnosci jiry.
+Osoby ktore braly udzial w projekcie to Tomasz Solarz, Andrzej Machnik, Wiktor Jarosz.
+
+W katalogu screeny sa wszystkie screeny jakie zrobilem podczas naszej pracy.
+W screeny/opis screenow.txt znajduje sie opis kazdego screena.
+W dokumentacja jest plik latex ktory trzeba uzupelnic. Ja sam z tego pliku wygeneruje plik pdf.
+W pliku latex trzeba trzymac sie tej struktury i pouzupelniac opisy kazdej sekcji.
+
